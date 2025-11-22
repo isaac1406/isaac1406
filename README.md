@@ -1,8 +1,16 @@
 ## Olá, sou Isaac Vianna, Desenvolvedor Full-Stack com interesse em automações de IA!
 
-[![Isaac's GitHub stats](https://github-readme-stats.vercel.app/api?username=isaac1406&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/isaac1406/github-readme-stats#gh-dark-mode-only)
-
 Sou estudante de Ciência da Computação na UFRJ, apaixonado por tecnologia e inovação. Atualmente atuo como Desenvolvedor de Software na EJCM, onde trabalho como Desenvolvedor Full Stack. Atuo na iniciativa de IA da empresa, implementando automações de IA, utilizando ferramentas como o N8N, LangChain e LangGraph, explorando o potencial da Inteligência Artificial para otimizar processos e entregar soluções eficientes.
+
+<div style="display: inline_block"><br>
+  <img align="center" alt="Isaac-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Isaac-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Isaac-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="Isaac-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Isaac-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Isaac-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Isaac-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
+</div>
 
   ##
 
