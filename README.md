@@ -1,4 +1,4 @@
-## Olá! Eu sou o Isaac Vianna
+## Olá, Eu sou o Isaac Vianna, Desenvolvedor Full-Stack com interesse em automações de IA!
 
 [![Isaac's GitHub stats](https://github-readme-stats.vercel.app/api?username=isaac1406&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/isaac1406/github-readme-stats#gh-dark-mode-only)
 
