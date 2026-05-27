@@ -1,6 +1,6 @@
 ## Olá, meu nome é Isaac Vianna!
 
-Sou estudante de Ciência da Computação na UFRJ, apaixonado por tecnologia e inovação. Atualmente atuo como Desenvolvedor de Software na EJCM, onde trabalho como Desenvolvedor Full Stack. Atuo também na iniciativa de IA da empresa, implementando automações de IA, utilizando ferramentas como o N8N, LangChain e LangGraph, explorando o potencial da Inteligência Artificial para otimizar processos e entregar soluções eficientes.
+Sou estudante de Ciência da Computação na UFRJ, apaixonado por tecnologia e inovação. Minha maior área de interesse é automações de IA, utilizando ferramentas como o N8N, LangChain e LangGraph, explorando o potencial da Inteligência Artificial para otimizar processos e entregar soluções eficientes.
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Isaac-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
